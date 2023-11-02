@@ -1,0 +1,16 @@
+{
+    "git.ignoreLimitWarning": true,
+    "launch": {
+
+
+        "configurations": [],
+        "compounds": []
+    },
+    "json.validate.enable": true,
+    "json.format.keepLines": false,
+    "json.schemas": [
+    
+    ],
+    "workbench.editor.enablePreview": false,
+    "editor.suggest.preview": true
+}
